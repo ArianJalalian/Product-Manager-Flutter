@@ -1,16 +1,20 @@
-# pro_4
+# Product Manager App 
 
-A new Flutter application.
 
-## Getting Started
+-Implemented with Flutter and Dart
 
-This project is a starting point for a Flutter application.
+-Providers
 
-A few resources to get you started if this is your first Flutter project:
+-Google Firesbase
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Disclaimer : The idea of the project and the orginal code is not mine. I just coded along with a course taught by Maximilian Schwarzmüller on udemy, 
+which you can find a link to it down below : 
+
+https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/ 
+
+
+Here are some screenshots of the app : 
+
+
+<img src="./screenshots/Screenshot_1657533160.png" width = 250 height = 500>           <img src="./screenshots/Screenshot_1657533169.png" width = 250 height = 500>                <img src="./screenshots/Screenshot_1657533176.png" width = 250 height = 500>       <img src="./screenshots/Screenshot_1657533181.png" width = 250 height = 500>
